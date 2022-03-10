@@ -1,1 +1,2 @@
 # VeezenGraphProblem
+Today we drove from benguerrir to lyoussoufia which is about 60 km. Let's imagine that we wanted to spend the night at marrakech then go back home the day after.  The CEO Asma ALAOUI at veezen asked about the visited cities during our journey to refund the travel cost.  As a note Safi also was in the planning to get visited but we didn't because of time constraints.  How are you gonna solve this problem ?  Actually this can be considered  as a graph problem.
